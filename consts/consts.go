@@ -15,7 +15,7 @@ const (
 	// TODO: choose a human-readable part for your hyperchain
 	HRP = "SRV"
 	// TODO: choose a name for your hyperchain
-	Name = "SRVN"
+	Name = "SRAVN"
 	// TODO: choose a token symbol
 	Symbol = "SRAVN369"
 )
