@@ -219,7 +219,7 @@ chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9
 assetID: 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
 metadata: MarioCoin supply: 0
 recipient: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp
-amount: 10000
+amount: 100
 continue (y/n): y
 ✅ txID: X1E5CVFgFFgniFyWcj5wweGg66TyzjK2bMWWTzFwJcwFYkF72
 ```
@@ -237,8 +237,8 @@ database: .token-cli
 address: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp
 chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9
 assetID (use TKN for native token): 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
-metadata: MarioCoin supply: 10000 warp: false
-balance: 10000 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
+metadata: SRAVN supply: 100 warp: false
+balance: 100 3L5MkGD2e46unSmnCYyyetu62tzuE1sTqpXaAhuLVPHWTf5jU
 ```
 
 #### Step 4: Create an Order
